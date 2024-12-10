@@ -1,0 +1,10 @@
+*{
+    margin-top: 0px;
+}
+.container {
+    height: 180vh;
+}
+.banner img{
+    width: 10px;
+    height: 5px;
+}
